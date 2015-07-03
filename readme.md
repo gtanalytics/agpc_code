@@ -167,5 +167,5 @@ It looks like
 
 Done ! 
 
-[id]: figures/lflt.PNG "A simple leaflet"
+[id]: images/lflt.PNG "A simple leaflet"
 
